@@ -1,4 +1,6 @@
-This will play text to speech info for block information captured with Snek
+This will play text to speech info for block information captured with Snek.
+It looks up the pools ticker with a call to Koios. Can be use to follow all blocks, a single pool
+or a list of pools.
 
 
 install node -lts with nvm
