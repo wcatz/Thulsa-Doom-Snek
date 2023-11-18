@@ -1,0 +1,26 @@
+{
+  "name": "thulsa-doom-snek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcatz/Thulsa-Doom-Snek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcatz/Thulsa-Doom-Snek/issues"
+  },
+  "homepage": "https://github.com/wcatz/Thulsa-Doom-Snek#readme",
+  "dependencies": {
+    "bech32": "^2.0.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "play-sound": "^1.1.6",
+    "simple-tts-mp3": "^1.0.7"
+  }
+}
